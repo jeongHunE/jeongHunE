@@ -1,4 +1,4 @@
-![깃허브 ](https://user-images.githubusercontent.com/103043741/169454325-63917474-3487-4f62-bc41-fba237d76df9.jpg)
+![깃허브2](https://user-images.githubusercontent.com/103043741/169454655-f4768a02-9768-43e3-8ef4-25091a35e637.jpg)
 ## Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
 
