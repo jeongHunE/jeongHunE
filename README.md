@@ -1,5 +1,6 @@
 ### Hi there 👋
-## ⚒Tech Stack⚒
+## ⚒ Tech Stac k⚒
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 <!--
 **jeungHunLee/jeungHunLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
