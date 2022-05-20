@@ -9,7 +9,7 @@
 
 ### SNS
 ---
- <a href="https://velog.io/@jeunghun2"><img src="<img src="https://img.shields.io/badge/Velogg-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> <a href="https://www.instagram.com/im_jeunghun/"><img src="<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>"/></a>
+ <a href="https://velog.io/@jeunghun2"><img src="https://img.shields.io/badge/Velogg-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> <a href="https://www.instagram.com/im_jeunghun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <!--
 **jeungHunLee/jeungHunLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
