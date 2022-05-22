@@ -12,7 +12,11 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksjs1111)](https://solved.ac/ksjs1111)
 <!--
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+ <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjeungHunLee)](https://hits.seeyoufarm.com) 
+	
+  </div>
 **jeungHunLee/jeungHunLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
