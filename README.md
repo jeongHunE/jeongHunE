@@ -8,6 +8,7 @@
 ## SNS
  <a href="https://velog.io/@jeunghun2"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> <a href="https://www.instagram.com/im_jeunghun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ksjs1111@gmail.com)](mailto:ksjs1111@gmail.com)
  
+ ## About me
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksjs1111)](https://solved.ac/ksjs1111)
 
