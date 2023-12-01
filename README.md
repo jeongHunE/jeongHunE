@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
 
 # Social Media
- <a href="https://velog.io/@jeunghun2"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> <a href="https://www.instagram.com/im_jeunghun/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ksjs1111@gmail.com)](mailto:ksjs1111@gmail.com) <a href="(https://www.linkedin.com/in/jeunghun-lee-381073238/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+ <a href="https://velog.io/@jeunghun2"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> <a href="https://www.instagram.com/im_jeunghun/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ksjs1111@gmail.com)](mailto:ksjs1111@gmail.com) <a href="https://www.linkedin.com/in/jeonghun-lee-381073238/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
  
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jeunghun2)]([https://velog.io/@jeunghun2/SwiftCombine-%EB%B9%84%EB%8F%99%EA%B8%B0-API-%EC%97%B0%EC%87%84-%ED%98%B8%EC%B6%9C-feat.-JSON-%EB%8D%B0%EC%9D%B4%ED%84%B0](https://velog.io/@jeunghun2))
  
