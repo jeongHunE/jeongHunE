@@ -1,4 +1,5 @@
-![깃허브2](https://user-images.githubusercontent.com/103043741/169454655-f4768a02-9768-43e3-8ef4-25091a35e637.jpg)
+<img width="1255" alt="Image" src="https://github.com/user-attachments/assets/922e908c-c824-45be-86a0-43981bf30482" />
+
 # Tech Stack
 <img src="https://skillicons.dev/icons?i=apple,swift,reactivex,py,java,html,css,js,mysql,firebase" />
 
