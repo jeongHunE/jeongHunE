@@ -1,4 +1,4 @@
-<img width="1255" alt="Image" src="https://github.com/user-attachments/assets/922e908c-c824-45be-86a0-43981bf30482" />
+<img width="1255" alt="Image" src="https://github.com/user-attachments/assets/36146a0a-2c6b-4cdb-bd26-cdf74d618e4b" />
 
 # Tech Stack
 <img src="https://skillicons.dev/icons?i=apple,swift,reactivex,py,java,html,css,js,mysql,firebase" />
