@@ -1,5 +1,5 @@
   ```swift
-    let jeongHun: iOSDevloper = .init(
+    let jeongHun: iOSDeveloper = .init(
       name: "JeongHunLee",
       email: "ksjs1111@gmail.com",
       skills: ["Swift", "iOS"],
