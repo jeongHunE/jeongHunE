@@ -1,6 +1,16 @@
-<div align="center">
-  <img width="1255" alt="Image" src="https://github.com/user-attachments/assets/36146a0a-2c6b-4cdb-bd26-cdf74d618e4b" />
-  
+  ```swift
+    let jeongHun: iOSDevloper = .init(
+      name: "JeongHunLee",
+      email: "ksjs1111@gmail.com",
+      skills: ["Swift", "iOS"],
+      github: "https://github.com/jeongHunE",
+      linkedIn: "https://www.linkedin.com/in/jeonghun-lee-381073238/",
+      blog: "https://velog.io/@jeunghun2/posts",
+      greeting: "Welcome to my GitHub page!"
+    )
+
+  ```
+<div align="center">  
   # ⚒️ Tech Skills
   <img src="https://skillicons.dev/icons?i=apple,swift,reactivex,py,java,js,mysql,firebase" />
 
