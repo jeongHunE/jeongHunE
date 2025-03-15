@@ -10,7 +10,8 @@
     )
 
   ```
-<div align="center">  
+<div align="center">
+  
   # ⚒️ Tech Skills
   <img src="https://skillicons.dev/icons?i=apple,swift,reactivex,py,java,js,mysql,firebase" />
 
